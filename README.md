@@ -9,7 +9,7 @@ A Power BI dashboard project for analyzing campus placements, student academics,
 - MySQL
 - XAMPP
 - Data Modeling
-- SQL
+  
 
 ## Features
 
