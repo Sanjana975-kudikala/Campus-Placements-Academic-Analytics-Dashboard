@@ -56,6 +56,9 @@ Contains:
 
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
+
+## Model Preview
+
 ![Model View](Model.png)
 
 
