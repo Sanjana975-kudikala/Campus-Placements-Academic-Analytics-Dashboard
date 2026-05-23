@@ -55,7 +55,8 @@ Contains:
 - Slicers and Filters
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
+![Model View](Model.png)
 
 
 ## How to Run
